@@ -1,0 +1,24 @@
+.about-info{
+    margin: 5rem 10%;
+    display:flex;
+    justify-content: space-between;
+    gap: 2rem;
+    color: gray;
+}
+.about-info div h3{
+    font-size: 3rem;
+    margin-bottom: 2rem;;
+}
+.about-info div h4{
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-bottom: 2rem;
+}
+.about-info div p{
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+.about-info img{
+    width: 80%;
+    border-radius: 10px;
+}
